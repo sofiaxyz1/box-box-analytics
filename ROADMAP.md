@@ -10,13 +10,13 @@ Análises:
 ---
 
 ## Etapa 0 — Fundação do repositório
-- [ ] Criar repositório no GitHub (ex: `f1-analytics`) com `.gitignore` de Python
-- [ ] Criar ambiente virtual (`python -m venv .venv`) e ativar
-- [ ] Instalar: `fastf1`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `jupyter`
-- [ ] Gerar `requirements.txt`
-- [ ] Estrutura de pastas:
+- [x] Criar repositório no GitHub 
+- [x] Criar ambiente virtual 
+- [x] Instalar: `fastf1`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `jupyter`
+- [x] Gerar `requirements.txt`
+- [x] Estrutura de pastas:
   ```
-  f1-analytics/
+  box-box-analytics/
   ├── notebooks/
   ├── src/
   ├── data/cache/        # cache do FastF1 (vai no .gitignore!)
@@ -26,8 +26,6 @@ Análises:
   ```
 - [ ] README inicial: título, objetivo, as duas perguntas de análise
 
-**Por quê:** estrutura profissional é a primeira coisa que um recrutador vê. O cache do FastF1 é obrigatório na prática — sem ele, cada sessão baixa ~50-100MB de novo.
-
 ## Etapa 1 — Exploração da API FastF1
 Notebook: `notebooks/01_exploracao_fastf1.ipynb`
 - [ ] Habilitar cache: `fastf1.Cache.enable_cache('data/cache')`
@@ -35,8 +33,6 @@ Notebook: `notebooks/01_exploracao_fastf1.ipynb`
 - [ ] Explorar `session.laps`: colunas `Sector1Time`, `Sector2Time`, `Sector3Time`, `LapTime`, `Compound`, `Driver`, `Deleted`...
 - [ ] Explorar `session.results` (posição de grid) e o calendário via `fastf1.get_event_schedule(2025)`
 - [ ] Anotar no notebook o que cada estrutura contém (isso vira sua documentação mental)
-
-**Por quê:** entender o formato dos dados antes de automatizar evita retrabalho. Atenção: tempos vêm como `Timedelta` — você vai converter para segundos (`.dt.total_seconds()`).
 
 ## Etapa 2 — Pipeline de coleta (temporada 2025)
 Módulo: `src/data_loader.py` | Notebook: `02_coleta_dados.ipynb`
@@ -46,8 +42,6 @@ Módulo: `src/data_loader.py` | Notebook: `02_coleta_dados.ipynb`
 - [ ] Tratar: voltas deletadas (`Deleted == True`), pilotos sem tempo, fins de semana sprint (quali de sprint ≠ quali da corrida)
 - [ ] Salvar DataFrame consolidado em `data/processed/quali_2025.csv` (ou parquet)
 
-**Por quê:** separar coleta de análise é o padrão de projeto de dados. Loop com `try/except` por corrida — uma sessão com problema não pode derrubar o pipeline.
-
 ## Etapa 3 — Análise 1: Setores vs. Grid
 Notebook: `03_setores_vs_grid.ipynb` | Funções em `src/analysis.py`
 - [ ] Normalizar tempos por corrida (Mônaco ~70s/volta, Monza ~80s — não dá pra comparar tempos brutos entre pistas). Opções: z-score por corrida ou delta % para o melhor setor
@@ -55,8 +49,6 @@ Notebook: `03_setores_vs_grid.ipynb` | Funções em `src/analysis.py`
 - [ ] Por corrida E agregado da temporada: em quais pistas cada setor "decide" o grid?
 - [ ] Visualizações: heatmap setor × corrida, scatter setor vs. posição, ranking de circuitos por setor mais decisivo
 - [ ] Extra (opcional): regressão para prever posição a partir dos 3 setores; comparar importância
-
-**Por quê:** a escolha justificada de Spearman vs. Pearson e a normalização entre pistas são o que diferencia análise de portfólio de tutorial copiado.
 
 ## Etapa 4 — Análise 2: Estratégia e ultrapassagens
 Notebook: `04_estrategia_corrida.ipynb`
@@ -67,8 +59,6 @@ Notebook: `04_estrategia_corrida.ipynb`
 - [ ] Ultrapassagens: variação de `Position` volta a volta, filtrando trocas causadas por pit stop (senão você conta "ultrapassagens fantasmas")
 - [ ] Perguntas: 1 vs. 2 paradas — o que rendeu mais posições? Undercut funcionou? Em quais pistas se ultrapassa mais?
 
-**Por quê:** aqui você mostra raciocínio de negócio/domínio, não só código. Filtrar as trocas de posição por pit stop é o detalhe técnico que mostra cuidado com qualidade de dado.
-
 ## Etapa 5 — Refatoração e qualidade
 - [ ] Mover funções repetidas dos notebooks para `src/` com docstrings
 - [ ] Nomes claros, remover código morto, notebooks rodando do zero (Restart & Run All)
@@ -77,8 +67,6 @@ Notebook: `04_estrategia_corrida.ipynb`
 ## Etapa 6 — README e apresentação
 - [ ] README com: contexto, perguntas, principais achados COM gráficos (exportar para `reports/figures/`), como rodar, estrutura do repo, limitações e próximos passos
 - [ ] Descrição e topics no GitHub (`python`, `data-analysis`, `formula1`, `fastf1`)
-
-**Por quê:** 90% dos recrutadores só leem o README. Os achados (com números e gráficos) precisam estar nele, não escondidos nos notebooks.
 
 ## Etapa 7 — Verificação final
 - [ ] Clonar o repo do zero e rodar tudo seguindo só o README
