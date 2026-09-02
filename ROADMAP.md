@@ -28,15 +28,15 @@ Análises:
 
 ## Etapa 1 — Exploração da API FastF1
 Notebook: `notebooks/01_exploracao_fastf1.ipynb`
-- [ ] Habilitar cache: `fastf1.Cache.enable_cache('data/cache')`
-- [ ] Carregar UMA sessão de quali (ex: Bahrein 2025) com `fastf1.get_session(2025, 'Bahrain', 'Q')` + `session.load()`
-- [ ] Explorar `session.laps`: colunas `Sector1Time`, `Sector2Time`, `Sector3Time`, `LapTime`, `Compound`, `Driver`, `Deleted`...
-- [ ] Explorar `session.results` (posição de grid) e o calendário via `fastf1.get_event_schedule(2025)`
-- [ ] Anotar no notebook o que cada estrutura contém (isso vira sua documentação mental)
+- [x] Habilitar cache: `fastf1.Cache.enable_cache('data/cache')`
+- [x] Carregar UMA sessão de quali (ex: Bahrein 2025) com `fastf1.get_session(2025, 'Bahrain', 'Q')` + `session.load()`
+- [x] Explorar `session.laps`: colunas `Sector1Time`, `Sector2Time`, `Sector3Time`, `LapTime`, `Compound`, `Driver`, `Deleted`...
+- [x] Explorar `session.results` (posição de grid) e o calendário via `fastf1.get_event_schedule(2025)`
+- [x] Anotar no notebook o que cada estrutura contém (isso vira sua documentação mental)
 
 ## Etapa 2 — Pipeline de coleta (temporada 2025)
 Módulo: `src/data_loader.py` | Notebook: `02_coleta_dados.ipynb`
-- [ ] Função que percorre o calendário 2025 e baixa todas as sessões de quali
+- [x] Função que percorre o calendário 2025 e baixa todas as sessões de quali
 - [ ] Para cada piloto: melhor volta válida + melhores tempos de setor + posição de grid
 - [ ] Decidir e documentar: usar setores da *melhor volta real* ou os *melhores setores da sessão* ("volta ideal")? (vale comparar os dois)
 - [ ] Tratar: voltas deletadas (`Deleted == True`), pilotos sem tempo, fins de semana sprint (quali de sprint ≠ quali da corrida)
