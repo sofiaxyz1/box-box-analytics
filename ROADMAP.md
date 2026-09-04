@@ -37,16 +37,16 @@ Notebook: `notebooks/01_exploracao_fastf1.ipynb`
 ## Etapa 2 — Pipeline de coleta (temporada 2025)
 Módulo: `src/data_loader.py` | Notebook: `02_coleta_dados.ipynb`
 - [x] Função que percorre o calendário 2025 e baixa todas as sessões de quali
-- [ ] Para cada piloto: melhor volta válida + melhores tempos de setor + posição de grid
-- [ ] Decidir e documentar: usar setores da *melhor volta real* ou os *melhores setores da sessão* ("volta ideal")? (vale comparar os dois)
-- [ ] Tratar: voltas deletadas (`Deleted == True`), pilotos sem tempo, fins de semana sprint (quali de sprint ≠ quali da corrida)
-- [ ] Salvar DataFrame consolidado em `data/processed/quali_2025.csv` (ou parquet)
+- [x] Para cada piloto: melhor volta válida + melhores tempos de setor + posição de grid
+- [x] Decidir e documentar: usar setores da *melhor volta real* ou os *melhores setores da sessão* ("volta ideal")? (vale comparar os dois) — decisão: volta real (`pick_fastest`), documentada no Notion; comparação com a "volta ideal" não foi feita (fora do escopo)
+- [x] Tratar: voltas deletadas (`Deleted == True`), pilotos sem tempo, fins de semana sprint (quali de sprint ≠ quali da corrida) — verificado empiricamente (GP da Áustria 2025) que `pick_fastest()` já ignora voltas deletadas mesmo quando são a mais rápida numericamente; pilotos sem tempo tratados com `if volta is None`
+- [x] Salvar DataFrame consolidado em `data/processed/quali_2025.csv` (ou parquet)
 
 ## Etapa 3 — Análise 1: Setores vs. Grid
 Notebook: `03_setores_vs_grid.ipynb` | Funções em `src/analysis.py`
-- [ ] Normalizar tempos por corrida (Mônaco ~70s/volta, Monza ~80s — não dá pra comparar tempos brutos entre pistas). Opções: z-score por corrida ou delta % para o melhor setor
-- [ ] Correlação: **Spearman** (posição de grid é ordinal — justifique isso no notebook, é ouro em entrevista) entre cada setor e a posição
-- [ ] Por corrida E agregado da temporada: em quais pistas cada setor "decide" o grid?
+- [x] Normalizar tempos por corrida (Mônaco ~70s/volta, Monza ~80s — não dá pra comparar tempos brutos entre pistas). Opções: z-score por corrida ou delta % para o melhor setor — resolvido por outro caminho: correlação calculada separadamente por corrida (`groupby('GP')`), em vez de normalizar e juntar tudo
+- [x] Correlação: **Spearman** (posição de grid é ordinal — justifique isso no notebook, é ouro em entrevista) entre cada setor e a posição
+- [x] Por corrida E agregado da temporada: em quais pistas cada setor "decide" o grid?
 - [ ] Visualizações: heatmap setor × corrida, scatter setor vs. posição, ranking de circuitos por setor mais decisivo
 - [ ] Extra (opcional): regressão para prever posição a partir dos 3 setores; comparar importância
 
