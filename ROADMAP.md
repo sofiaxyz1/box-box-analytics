@@ -47,7 +47,7 @@ Notebook: `03_setores_vs_grid.ipynb` | Funções em `src/analysis.py`
 - [x] Normalizar tempos por corrida (Mônaco ~70s/volta, Monza ~80s — não dá pra comparar tempos brutos entre pistas). Opções: z-score por corrida ou delta % para o melhor setor — resolvido por outro caminho: correlação calculada separadamente por corrida (`groupby('GP')`), em vez de normalizar e juntar tudo
 - [x] Correlação: **Spearman** (posição de grid é ordinal — justifique isso no notebook, é ouro em entrevista) entre cada setor e a posição
 - [x] Por corrida E agregado da temporada: em quais pistas cada setor "decide" o grid?
-- [ ] Visualizações: heatmap setor × corrida, scatter setor vs. posição, ranking de circuitos por setor mais decisivo
+- [x] Visualizações: heatmap setor × corrida (salvo em reports/figures/heatmap_setores_grid.png), scatter setor vs. posição — contraste Bahrain (forte) x Azerbaijão (fraco), salvo em scatter_contraste_forte_fraco.png. Ranking de circuitos coberto via tabela ordenada (sort_values), sem gráfico dedicado.
 - [ ] Extra (opcional): regressão para prever posição a partir dos 3 setores; comparar importância
 
 ## Etapa 4 — Análise 2: Estratégia e ultrapassagens
