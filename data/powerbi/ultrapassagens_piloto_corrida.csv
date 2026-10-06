@@ -1,0 +1,477 @@
+GP,Driver,Equipe,UltrapassagensReais,MudancaPits,UltrapassagensLiquidas,Paradas
+Abu Dhabi Grand Prix,ALB,Williams,-10.0,11.0,1.0,2.0
+Abu Dhabi Grand Prix,ALO,Aston Martin,-8.0,9.0,1.0,1.0
+Abu Dhabi Grand Prix,ANT,Mercedes,-11.0,9.0,-2.0,1.0
+Abu Dhabi Grand Prix,BEA,Haas F1 Team,-9.0,7.0,-2.0,1.0
+Abu Dhabi Grand Prix,BOR,Kick Sauber,-3.0,8.0,5.0,1.0
+Abu Dhabi Grand Prix,COL,Alpine,-5.0,5.0,0.0,2.0
+Abu Dhabi Grand Prix,GAS,Alpine,-7.0,7.0,0.0,2.0
+Abu Dhabi Grand Prix,HAD,Racing Bulls,-1.0,10.0,9.0,1.0
+Abu Dhabi Grand Prix,HAM,Ferrari,-22.0,16.0,-6.0,2.0
+Abu Dhabi Grand Prix,HUL,Kick Sauber,-16.0,9.0,-7.0,2.0
+Abu Dhabi Grand Prix,LAW,Racing Bulls,-7.0,14.0,7.0,1.0
+Abu Dhabi Grand Prix,LEC,Ferrari,-7.0,7.0,0.0,2.0
+Abu Dhabi Grand Prix,NOR,McLaren,-6.0,6.0,0.0,2.0
+Abu Dhabi Grand Prix,OCO,Haas F1 Team,-16.0,14.0,-2.0,1.0
+Abu Dhabi Grand Prix,PIA,McLaren,-1.0,1.0,0.0,1.0
+Abu Dhabi Grand Prix,RUS,Mercedes,-9.0,8.0,-1.0,1.0
+Abu Dhabi Grand Prix,SAI,Williams,-11.0,11.0,0.0,1.0
+Abu Dhabi Grand Prix,STR,Aston Martin,-18.0,11.0,-7.0,1.0
+Abu Dhabi Grand Prix,TSU,Red Bull Racing,-8.0,12.0,4.0,1.0
+Abu Dhabi Grand Prix,VER,Red Bull Racing,-1.0,1.0,0.0,1.0
+Australian Grand Prix,ALB,Williams,-4.0,2.0,-2.0,5.0
+Australian Grand Prix,ALO,Aston Martin,0.0,0.0,0.0,3.0
+Australian Grand Prix,ANT,Mercedes,-9.0,0.0,-9.0,5.0
+Australian Grand Prix,BEA,Haas F1 Team,-4.0,1.0,-3.0,5.0
+Australian Grand Prix,BOR,Kick Sauber,0.0,-1.0,-1.0,5.0
+Australian Grand Prix,DOO,Alpine,0.0,,0.0,0.0
+Australian Grand Prix,GAS,Alpine,-2.0,4.0,2.0,5.0
+Australian Grand Prix,HAD,Racing Bulls,0.0,,0.0,0.0
+Australian Grand Prix,HAM,Ferrari,-6.0,8.0,2.0,5.0
+Australian Grand Prix,HUL,Kick Sauber,-4.0,-1.0,-5.0,5.0
+Australian Grand Prix,LAW,Red Bull Racing,-8.0,1.0,-7.0,4.0
+Australian Grand Prix,LEC,Ferrari,-5.0,8.0,3.0,5.0
+Australian Grand Prix,NOR,McLaren,-5.0,5.0,0.0,5.0
+Australian Grand Prix,OCO,Haas F1 Team,-1.0,-1.0,-2.0,5.0
+Australian Grand Prix,PIA,McLaren,-7.0,13.0,6.0,5.0
+Australian Grand Prix,RUS,Mercedes,-5.0,4.0,-1.0,5.0
+Australian Grand Prix,SAI,Williams,0.0,,0.0,0.0
+Australian Grand Prix,STR,Aston Martin,-3.0,-2.0,-5.0,5.0
+Australian Grand Prix,TSU,Racing Bulls,-1.0,7.0,6.0,5.0
+Australian Grand Prix,VER,Red Bull Racing,-1.0,1.0,0.0,5.0
+Austrian Grand Prix,ALB,Williams,-1.0,10.0,9.0,1.0
+Austrian Grand Prix,ALO,Aston Martin,-10.0,7.0,-3.0,1.0
+Austrian Grand Prix,ANT,Mercedes,0.0,,0.0,0.0
+Austrian Grand Prix,BEA,Haas F1 Team,-11.0,10.0,-1.0,2.0
+Austrian Grand Prix,BOR,Kick Sauber,-13.0,13.0,0.0,2.0
+Austrian Grand Prix,COL,Alpine,-5.0,9.0,4.0,2.0
+Austrian Grand Prix,GAS,Alpine,-7.0,14.0,7.0,2.0
+Austrian Grand Prix,HAD,Racing Bulls,-12.0,8.0,-4.0,2.0
+Austrian Grand Prix,HAM,Ferrari,-5.0,5.0,0.0,2.0
+Austrian Grand Prix,HUL,Kick Sauber,-13.0,5.0,-8.0,2.0
+Austrian Grand Prix,LAW,Racing Bulls,-10.0,7.0,-3.0,1.0
+Austrian Grand Prix,LEC,Ferrari,-5.0,5.0,0.0,2.0
+Austrian Grand Prix,NOR,McLaren,-4.0,4.0,0.0,2.0
+Austrian Grand Prix,OCO,Haas F1 Team,-15.0,11.0,-4.0,2.0
+Austrian Grand Prix,PIA,McLaren,-4.0,4.0,0.0,2.0
+Austrian Grand Prix,RUS,Mercedes,-10.0,10.0,0.0,2.0
+Austrian Grand Prix,STR,Aston Martin,-9.0,10.0,1.0,2.0
+Austrian Grand Prix,TSU,Red Bull Racing,-8.0,9.0,1.0,3.0
+Austrian Grand Prix,VER,Red Bull Racing,0.0,,0.0,0.0
+Azerbaijan Grand Prix,ALB,Williams,-8.0,0.0,-8.0,2.0
+Azerbaijan Grand Prix,ALO,Aston Martin,-4.0,8.0,4.0,1.0
+Azerbaijan Grand Prix,ANT,Mercedes,-8.0,8.0,0.0,1.0
+Azerbaijan Grand Prix,BEA,Haas F1 Team,-7.0,5.0,-2.0,1.0
+Azerbaijan Grand Prix,BOR,Kick Sauber,-7.0,7.0,0.0,1.0
+Azerbaijan Grand Prix,COL,Alpine,-1.0,6.0,5.0,1.0
+Azerbaijan Grand Prix,GAS,Alpine,-1.0,3.0,2.0,1.0
+Azerbaijan Grand Prix,HAD,Racing Bulls,0.0,3.0,3.0,1.0
+Azerbaijan Grand Prix,HAM,Ferrari,-6.0,4.0,-2.0,1.0
+Azerbaijan Grand Prix,HUL,Kick Sauber,-5.0,4.0,-1.0,1.0
+Azerbaijan Grand Prix,LAW,Racing Bulls,-5.0,7.0,2.0,1.0
+Azerbaijan Grand Prix,LEC,Ferrari,-5.0,5.0,0.0,1.0
+Azerbaijan Grand Prix,NOR,McLaren,-5.0,4.0,-1.0,1.0
+Azerbaijan Grand Prix,OCO,Haas F1 Team,-5.0,1.0,-4.0,2.0
+Azerbaijan Grand Prix,PIA,McLaren,0.0,,0.0,0.0
+Azerbaijan Grand Prix,RUS,Mercedes,-3.0,0.0,-3.0,1.0
+Azerbaijan Grand Prix,SAI,Williams,-3.0,4.0,1.0,1.0
+Azerbaijan Grand Prix,STR,Aston Martin,-2.0,6.0,4.0,1.0
+Azerbaijan Grand Prix,TSU,Red Bull Racing,-3.0,3.0,0.0,1.0
+Azerbaijan Grand Prix,VER,Red Bull Racing,0.0,0.0,0.0,1.0
+Bahrain Grand Prix,ALB,Williams,-18.0,16.0,-2.0,2.0
+Bahrain Grand Prix,ALO,Aston Martin,-9.0,14.0,5.0,2.0
+Bahrain Grand Prix,ANT,Mercedes,-15.0,19.0,4.0,3.0
+Bahrain Grand Prix,BEA,Haas F1 Team,-18.0,13.0,-5.0,2.0
+Bahrain Grand Prix,BOR,Kick Sauber,-10.0,10.0,0.0,2.0
+Bahrain Grand Prix,DOO,Alpine,-12.0,15.0,3.0,2.0
+Bahrain Grand Prix,GAS,Alpine,-13.0,15.0,2.0,2.0
+Bahrain Grand Prix,HAD,Racing Bulls,-9.0,9.0,0.0,2.0
+Bahrain Grand Prix,HAM,Ferrari,-13.0,9.0,-4.0,2.0
+Bahrain Grand Prix,HUL,Kick Sauber,-8.0,3.0,-5.0,2.0
+Bahrain Grand Prix,LAW,Racing Bulls,-15.0,11.0,-4.0,2.0
+Bahrain Grand Prix,LEC,Ferrari,-3.0,3.0,0.0,2.0
+Bahrain Grand Prix,NOR,McLaren,-11.0,11.0,0.0,2.0
+Bahrain Grand Prix,OCO,Haas F1 Team,-18.0,13.0,-5.0,2.0
+Bahrain Grand Prix,PIA,McLaren,-2.0,2.0,0.0,2.0
+Bahrain Grand Prix,RUS,Mercedes,-4.0,4.0,0.0,2.0
+Bahrain Grand Prix,SAI,Williams,-5.0,19.0,14.0,3.0
+Bahrain Grand Prix,STR,Aston Martin,-11.0,11.0,0.0,2.0
+Bahrain Grand Prix,TSU,Red Bull Racing,-15.0,14.0,-1.0,2.0
+Bahrain Grand Prix,VER,Red Bull Racing,-22.0,20.0,-2.0,2.0
+Belgian Grand Prix,ALB,Williams,-1.0,2.0,1.0,1.0
+Belgian Grand Prix,ALO,Aston Martin,-6.0,3.0,-3.0,2.0
+Belgian Grand Prix,ANT,Mercedes,-7.0,4.0,-3.0,2.0
+Belgian Grand Prix,BEA,Haas F1 Team,-5.0,4.0,-1.0,1.0
+Belgian Grand Prix,BOR,Kick Sauber,-3.0,2.0,-1.0,1.0
+Belgian Grand Prix,COL,Alpine,-2.0,6.0,4.0,2.0
+Belgian Grand Prix,GAS,Alpine,-8.0,5.0,-3.0,1.0
+Belgian Grand Prix,HAD,Racing Bulls,3.0,9.0,12.0,2.0
+Belgian Grand Prix,HAM,Ferrari,-15.0,4.0,-11.0,1.0
+Belgian Grand Prix,HUL,Kick Sauber,-10.0,8.0,-2.0,2.0
+Belgian Grand Prix,LAW,Racing Bulls,-3.0,2.0,-1.0,1.0
+Belgian Grand Prix,LEC,Ferrari,-2.0,2.0,0.0,1.0
+Belgian Grand Prix,NOR,McLaren,0.0,1.0,1.0,1.0
+Belgian Grand Prix,OCO,Haas F1 Team,-5.0,9.0,4.0,1.0
+Belgian Grand Prix,PIA,McLaren,-2.0,1.0,-1.0,1.0
+Belgian Grand Prix,RUS,Mercedes,-3.0,2.0,-1.0,1.0
+Belgian Grand Prix,SAI,Williams,-5.0,6.0,1.0,2.0
+Belgian Grand Prix,STR,Aston Martin,-4.0,2.0,-2.0,1.0
+Belgian Grand Prix,TSU,Red Bull Racing,0.0,6.0,6.0,1.0
+Belgian Grand Prix,VER,Red Bull Racing,-2.0,2.0,0.0,1.0
+British Grand Prix,ALB,Williams,-2.0,1.0,-1.0,2.0
+British Grand Prix,ALO,Aston Martin,-7.0,10.0,3.0,2.0
+British Grand Prix,ANT,Mercedes,-1.0,9.0,8.0,3.0
+British Grand Prix,BEA,Haas F1 Team,-8.0,1.0,-7.0,2.0
+British Grand Prix,BOR,Kick Sauber,0.0,0.0,0.0,0.0
+British Grand Prix,GAS,Alpine,-6.0,7.0,1.0,2.0
+British Grand Prix,HAD,Racing Bulls,0.0,0.0,0.0,1.0
+British Grand Prix,HAM,Ferrari,-6.0,6.0,0.0,2.0
+British Grand Prix,HUL,Kick Sauber,-14.0,6.0,-8.0,2.0
+British Grand Prix,LAW,Racing Bulls,0.0,,0.0,0.0
+British Grand Prix,LEC,Ferrari,-6.0,5.0,-1.0,2.0
+British Grand Prix,NOR,McLaren,-2.0,0.0,-2.0,2.0
+British Grand Prix,OCO,Haas F1 Team,-10.0,10.0,0.0,2.0
+British Grand Prix,PIA,McLaren,-1.0,1.0,0.0,2.0
+British Grand Prix,RUS,Mercedes,-10.0,6.0,-4.0,2.0
+British Grand Prix,SAI,Williams,-1.0,6.0,5.0,2.0
+British Grand Prix,STR,Aston Martin,-9.0,4.0,-5.0,3.0
+British Grand Prix,TSU,Red Bull Racing,1.0,4.0,5.0,2.0
+British Grand Prix,VER,Red Bull Racing,2.0,2.0,4.0,2.0
+Canadian Grand Prix,ALB,Williams,-1.0,8.0,7.0,1.0
+Canadian Grand Prix,ALO,Aston Martin,-15.0,16.0,1.0,6.0
+Canadian Grand Prix,ANT,Mercedes,-10.0,10.0,0.0,5.0
+Canadian Grand Prix,BEA,Haas F1 Team,-9.0,7.0,-2.0,4.0
+Canadian Grand Prix,BOR,Kick Sauber,-5.0,4.0,-1.0,4.0
+Canadian Grand Prix,COL,Alpine,-5.0,8.0,3.0,4.0
+Canadian Grand Prix,GAS,Alpine,-5.0,0.0,-5.0,4.0
+Canadian Grand Prix,HAD,Racing Bulls,-2.0,7.0,5.0,4.0
+Canadian Grand Prix,HAM,Ferrari,-6.0,7.0,1.0,5.0
+Canadian Grand Prix,HUL,Kick Sauber,-10.0,9.0,-1.0,5.0
+Canadian Grand Prix,LAW,Racing Bulls,-6.0,6.0,0.0,1.0
+Canadian Grand Prix,LEC,Ferrari,-10.0,7.0,-3.0,5.0
+Canadian Grand Prix,NOR,McLaren,-11.0,9.0,-2.0,2.0
+Canadian Grand Prix,OCO,Haas F1 Team,-6.0,1.0,-5.0,4.0
+Canadian Grand Prix,PIA,McLaren,-11.0,11.0,0.0,5.0
+Canadian Grand Prix,RUS,Mercedes,-8.0,8.0,0.0,5.0
+Canadian Grand Prix,SAI,Williams,-6.0,0.0,-6.0,4.0
+Canadian Grand Prix,STR,Aston Martin,-9.0,8.0,-1.0,5.0
+Canadian Grand Prix,TSU,Red Bull Racing,-7.0,2.0,-5.0,4.0
+Canadian Grand Prix,VER,Red Bull Racing,-11.0,11.0,0.0,5.0
+Chinese Grand Prix,ALB,Williams,-13.0,11.0,-2.0,1.0
+Chinese Grand Prix,ALO,Aston Martin,0.0,8.0,8.0,0.0
+Chinese Grand Prix,ANT,Mercedes,-6.0,7.0,1.0,1.0
+Chinese Grand Prix,BEA,Haas F1 Team,-15.0,9.0,-6.0,1.0
+Chinese Grand Prix,BOR,Kick Sauber,-4.0,1.0,-3.0,2.0
+Chinese Grand Prix,DOO,Alpine,-6.0,3.0,-3.0,1.0
+Chinese Grand Prix,GAS,Alpine,-8.0,6.0,-2.0,1.0
+Chinese Grand Prix,HAD,Racing Bulls,-8.0,14.0,6.0,2.0
+Chinese Grand Prix,HAM,Ferrari,-5.0,7.0,2.0,2.0
+Chinese Grand Prix,HUL,Kick Sauber,-4.0,3.0,-1.0,1.0
+Chinese Grand Prix,LAW,Red Bull Racing,-11.0,9.0,-2.0,2.0
+Chinese Grand Prix,LEC,Ferrari,-5.0,5.0,0.0,1.0
+Chinese Grand Prix,NOR,McLaren,-3.0,3.0,0.0,1.0
+Chinese Grand Prix,OCO,Haas F1 Team,-9.0,6.0,-3.0,1.0
+Chinese Grand Prix,PIA,McLaren,-3.0,3.0,0.0,1.0
+Chinese Grand Prix,RUS,Mercedes,-3.0,3.0,0.0,1.0
+Chinese Grand Prix,SAI,Williams,-14.0,12.0,-2.0,1.0
+Chinese Grand Prix,STR,Aston Martin,-9.0,7.0,-2.0,1.0
+Chinese Grand Prix,TSU,Racing Bulls,-8.0,19.0,11.0,3.0
+Chinese Grand Prix,VER,Red Bull Racing,-7.0,5.0,-2.0,1.0
+Dutch Grand Prix,ALB,Williams,-4.0,-1.0,-5.0,2.0
+Dutch Grand Prix,ALO,Aston Martin,-15.0,11.0,-4.0,2.0
+Dutch Grand Prix,ANT,Mercedes,-7.0,1.0,-6.0,3.0
+Dutch Grand Prix,BEA,Haas F1 Team,-15.0,2.0,-13.0,1.0
+Dutch Grand Prix,BOR,Kick Sauber,-11.0,9.0,-2.0,2.0
+Dutch Grand Prix,COL,Alpine,-7.0,4.0,-3.0,3.0
+Dutch Grand Prix,GAS,Alpine,-1.0,4.0,3.0,1.0
+Dutch Grand Prix,HAD,Racing Bulls,-1.0,0.0,-1.0,2.0
+Dutch Grand Prix,HAM,Ferrari,0.0,,0.0,0.0
+Dutch Grand Prix,HUL,Kick Sauber,-6.0,4.0,-2.0,2.0
+Dutch Grand Prix,LAW,Racing Bulls,-4.0,9.0,5.0,3.0
+Dutch Grand Prix,LEC,Ferrari,-4.0,4.0,0.0,1.0
+Dutch Grand Prix,NOR,McLaren,-1.0,0.0,-1.0,2.0
+Dutch Grand Prix,OCO,Haas F1 Team,-11.0,6.0,-5.0,1.0
+Dutch Grand Prix,PIA,McLaren,0.0,0.0,0.0,2.0
+Dutch Grand Prix,RUS,Mercedes,-1.0,-1.0,-2.0,2.0
+Dutch Grand Prix,SAI,Williams,-6.0,11.0,5.0,4.0
+Dutch Grand Prix,STR,Aston Martin,-19.0,8.0,-11.0,2.0
+Dutch Grand Prix,TSU,Red Bull Racing,-10.0,9.0,-1.0,2.0
+Dutch Grand Prix,VER,Red Bull Racing,0.0,0.0,0.0,2.0
+Emilia Romagna Grand Prix,ALB,Williams,-4.0,2.0,-2.0,2.0
+Emilia Romagna Grand Prix,ALO,Aston Martin,-7.0,13.0,6.0,2.0
+Emilia Romagna Grand Prix,ANT,Mercedes,-4.0,0.0,-4.0,1.0
+Emilia Romagna Grand Prix,BEA,Haas F1 Team,-10.0,9.0,-1.0,2.0
+Emilia Romagna Grand Prix,BOR,Kick Sauber,-5.0,9.0,4.0,3.0
+Emilia Romagna Grand Prix,COL,Alpine,-13.0,12.0,-1.0,2.0
+Emilia Romagna Grand Prix,GAS,Alpine,-3.0,7.0,4.0,2.0
+Emilia Romagna Grand Prix,HAD,Racing Bulls,-4.0,2.0,-2.0,2.0
+Emilia Romagna Grand Prix,HAM,Ferrari,-11.0,2.0,-9.0,2.0
+Emilia Romagna Grand Prix,HUL,Kick Sauber,-6.0,2.0,-4.0,1.0
+Emilia Romagna Grand Prix,LAW,Racing Bulls,-8.0,7.0,-1.0,2.0
+Emilia Romagna Grand Prix,LEC,Ferrari,-14.0,10.0,-4.0,2.0
+Emilia Romagna Grand Prix,NOR,McLaren,-5.0,3.0,-2.0,2.0
+Emilia Romagna Grand Prix,OCO,Haas F1 Team,-1.0,0.0,-1.0,1.0
+Emilia Romagna Grand Prix,PIA,McLaren,-10.0,11.0,1.0,2.0
+Emilia Romagna Grand Prix,RUS,Mercedes,-10.0,14.0,4.0,2.0
+Emilia Romagna Grand Prix,SAI,Williams,-11.0,13.0,2.0,2.0
+Emilia Romagna Grand Prix,STR,Aston Martin,-7.0,14.0,7.0,2.0
+Emilia Romagna Grand Prix,TSU,Red Bull Racing,-11.0,2.0,-9.0,1.0
+Emilia Romagna Grand Prix,VER,Red Bull Racing,0.0,0.0,0.0,2.0
+Hungarian Grand Prix,ALB,Williams,-8.0,7.0,-1.0,2.0
+Hungarian Grand Prix,ALO,Aston Martin,-2.0,3.0,1.0,1.0
+Hungarian Grand Prix,ANT,Mercedes,-11.0,8.0,-3.0,1.0
+Hungarian Grand Prix,BEA,Haas F1 Team,-5.0,14.0,9.0,1.0
+Hungarian Grand Prix,BOR,Kick Sauber,-2.0,2.0,0.0,1.0
+Hungarian Grand Prix,COL,Alpine,-6.0,7.0,1.0,2.0
+Hungarian Grand Prix,GAS,Alpine,-10.0,8.0,-2.0,1.0
+Hungarian Grand Prix,HAD,Racing Bulls,-9.0,9.0,0.0,1.0
+Hungarian Grand Prix,HAM,Ferrari,-11.0,9.0,-2.0,1.0
+Hungarian Grand Prix,HUL,Kick Sauber,-16.0,12.0,-4.0,2.0
+Hungarian Grand Prix,LAW,Racing Bulls,-5.0,5.0,0.0,1.0
+Hungarian Grand Prix,LEC,Ferrari,-2.0,5.0,3.0,2.0
+Hungarian Grand Prix,NOR,McLaren,-7.0,3.0,-4.0,1.0
+Hungarian Grand Prix,OCO,Haas F1 Team,-3.0,4.0,1.0,1.0
+Hungarian Grand Prix,PIA,McLaren,-5.0,5.0,0.0,2.0
+Hungarian Grand Prix,RUS,Mercedes,-5.0,5.0,0.0,2.0
+Hungarian Grand Prix,SAI,Williams,-9.0,11.0,2.0,2.0
+Hungarian Grand Prix,STR,Aston Martin,-5.0,5.0,0.0,1.0
+Hungarian Grand Prix,TSU,Red Bull Racing,-11.0,9.0,-2.0,2.0
+Hungarian Grand Prix,VER,Red Bull Racing,-13.0,13.0,0.0,2.0
+Italian Grand Prix,ALB,Williams,-12.0,6.0,-6.0,1.0
+Italian Grand Prix,ALO,Aston Martin,2.0,11.0,13.0,1.0
+Italian Grand Prix,ANT,Mercedes,-9.0,7.0,-2.0,1.0
+Italian Grand Prix,BEA,Haas F1 Team,-7.0,8.0,1.0,1.0
+Italian Grand Prix,BOR,Kick Sauber,-8.0,10.0,2.0,1.0
+Italian Grand Prix,COL,Alpine,-6.0,6.0,0.0,1.0
+Italian Grand Prix,GAS,Alpine,-8.0,5.0,-3.0,1.0
+Italian Grand Prix,HAD,Racing Bulls,-15.0,7.0,-8.0,1.0
+Italian Grand Prix,HAM,Ferrari,-7.0,5.0,-2.0,1.0
+Italian Grand Prix,LAW,Racing Bulls,-5.0,4.0,-1.0,1.0
+Italian Grand Prix,LEC,Ferrari,-2.0,2.0,0.0,1.0
+Italian Grand Prix,NOR,McLaren,-2.0,2.0,0.0,1.0
+Italian Grand Prix,OCO,Haas F1 Team,-7.0,8.0,1.0,1.0
+Italian Grand Prix,PIA,McLaren,-1.0,1.0,0.0,1.0
+Italian Grand Prix,RUS,Mercedes,-7.0,7.0,0.0,1.0
+Italian Grand Prix,SAI,Williams,-10.0,9.0,-1.0,1.0
+Italian Grand Prix,STR,Aston Martin,-8.0,10.0,2.0,1.0
+Italian Grand Prix,TSU,Red Bull Racing,-5.0,9.0,4.0,1.0
+Italian Grand Prix,VER,Red Bull Racing,-2.0,2.0,0.0,1.0
+Japanese Grand Prix,ALB,Williams,-9.0,9.0,0.0,1.0
+Japanese Grand Prix,ALO,Aston Martin,-7.0,7.0,0.0,1.0
+Japanese Grand Prix,ANT,Mercedes,-5.0,5.0,0.0,1.0
+Japanese Grand Prix,BEA,Haas F1 Team,-8.0,8.0,0.0,1.0
+Japanese Grand Prix,BOR,Kick Sauber,-7.0,6.0,-1.0,1.0
+Japanese Grand Prix,DOO,Alpine,-4.0,1.0,-3.0,1.0
+Japanese Grand Prix,GAS,Alpine,-5.0,6.0,1.0,1.0
+Japanese Grand Prix,HAD,Racing Bulls,-6.0,7.0,1.0,1.0
+Japanese Grand Prix,HAM,Ferrari,-6.0,5.0,-1.0,1.0
+Japanese Grand Prix,HUL,Kick Sauber,-2.0,3.0,1.0,1.0
+Japanese Grand Prix,LAW,Racing Bulls,-3.0,6.0,3.0,1.0
+Japanese Grand Prix,LEC,Ferrari,-6.0,6.0,0.0,1.0
+Japanese Grand Prix,NOR,McLaren,-4.0,4.0,0.0,1.0
+Japanese Grand Prix,OCO,Haas F1 Team,-5.0,6.0,1.0,1.0
+Japanese Grand Prix,PIA,McLaren,-6.0,6.0,0.0,1.0
+Japanese Grand Prix,RUS,Mercedes,-8.0,8.0,0.0,1.0
+Japanese Grand Prix,SAI,Williams,-8.0,6.0,-2.0,1.0
+Japanese Grand Prix,STR,Aston Martin,0.0,1.0,1.0,2.0
+Japanese Grand Prix,TSU,Red Bull Racing,-5.0,4.0,-1.0,1.0
+Japanese Grand Prix,VER,Red Bull Racing,-4.0,4.0,0.0,1.0
+Las Vegas Grand Prix,ALB,Williams,-4.0,7.0,3.0,3.0
+Las Vegas Grand Prix,ALO,Aston Martin,-3.0,6.0,3.0,1.0
+Las Vegas Grand Prix,ANT,Mercedes,-11.0,1.0,-10.0,1.0
+Las Vegas Grand Prix,BEA,Haas F1 Team,-3.0,7.0,4.0,1.0
+Las Vegas Grand Prix,BOR,Kick Sauber,,0.0,0.0,1.0
+Las Vegas Grand Prix,COL,Alpine,-2.0,3.0,1.0,1.0
+Las Vegas Grand Prix,GAS,Alpine,-2.0,0.0,-2.0,1.0
+Las Vegas Grand Prix,HAD,Racing Bulls,-2.0,5.0,3.0,1.0
+Las Vegas Grand Prix,HAM,Ferrari,-8.0,5.0,-3.0,1.0
+Las Vegas Grand Prix,HUL,Kick Sauber,-7.0,5.0,-2.0,1.0
+Las Vegas Grand Prix,LAW,Racing Bulls,-5.0,15.0,10.0,2.0
+Las Vegas Grand Prix,LEC,Ferrari,-10.0,7.0,-3.0,1.0
+Las Vegas Grand Prix,NOR,McLaren,-3.0,2.0,-1.0,1.0
+Las Vegas Grand Prix,OCO,Haas F1 Team,-7.0,6.0,-1.0,1.0
+Las Vegas Grand Prix,PIA,McLaren,-7.0,5.0,-2.0,1.0
+Las Vegas Grand Prix,RUS,Mercedes,-4.0,5.0,1.0,1.0
+Las Vegas Grand Prix,SAI,Williams,-4.0,7.0,3.0,1.0
+Las Vegas Grand Prix,STR,Aston Martin,0.0,,0.0,0.0
+Las Vegas Grand Prix,TSU,Red Bull Racing,-6.0,2.0,-4.0,2.0
+Las Vegas Grand Prix,VER,Red Bull Racing,0.0,0.0,0.0,1.0
+Mexico City Grand Prix,ALB,Williams,-10.0,4.0,-6.0,1.0
+Mexico City Grand Prix,ALO,Aston Martin,-7.0,7.0,0.0,1.0
+Mexico City Grand Prix,ANT,Mercedes,-11.0,10.0,-1.0,2.0
+Mexico City Grand Prix,BEA,Haas F1 Team,-9.0,7.0,-2.0,2.0
+Mexico City Grand Prix,BOR,Kick Sauber,-6.0,3.0,-3.0,1.0
+Mexico City Grand Prix,COL,Alpine,-5.0,1.0,-4.0,1.0
+Mexico City Grand Prix,GAS,Alpine,-1.0,1.0,0.0,1.0
+Mexico City Grand Prix,HAD,Racing Bulls,-3.0,5.0,2.0,1.0
+Mexico City Grand Prix,HAM,Ferrari,-8.0,13.0,5.0,2.0
+Mexico City Grand Prix,HUL,Kick Sauber,-2.0,1.0,-1.0,0.0
+Mexico City Grand Prix,LAW,Racing Bulls,0.0,6.0,6.0,1.0
+Mexico City Grand Prix,LEC,Ferrari,-1.0,1.0,0.0,1.0
+Mexico City Grand Prix,NOR,McLaren,0.0,0.0,0.0,1.0
+Mexico City Grand Prix,OCO,Haas F1 Team,-10.0,9.0,-1.0,1.0
+Mexico City Grand Prix,PIA,McLaren,-11.0,7.0,-4.0,2.0
+Mexico City Grand Prix,RUS,Mercedes,-4.0,6.0,2.0,2.0
+Mexico City Grand Prix,SAI,Williams,-10.0,13.0,3.0,3.0
+Mexico City Grand Prix,STR,Aston Martin,-16.0,11.0,-5.0,2.0
+Mexico City Grand Prix,TSU,Red Bull Racing,-3.0,6.0,3.0,1.0
+Mexico City Grand Prix,VER,Red Bull Racing,-7.0,6.0,-1.0,1.0
+Miami Grand Prix,ALB,Williams,-4.0,4.0,0.0,1.0
+Miami Grand Prix,ALO,Aston Martin,-4.0,2.0,-2.0,1.0
+Miami Grand Prix,ANT,Mercedes,-1.0,5.0,4.0,1.0
+Miami Grand Prix,BEA,Haas F1 Team,-3.0,,-3.0,0.0
+Miami Grand Prix,BOR,Kick Sauber,-1.0,5.0,4.0,1.0
+Miami Grand Prix,DOO,Alpine,0.0,,0.0,0.0
+Miami Grand Prix,GAS,Alpine,-7.0,2.0,-5.0,1.0
+Miami Grand Prix,HAD,Racing Bulls,-4.0,4.0,0.0,1.0
+Miami Grand Prix,HAM,Ferrari,-7.0,3.0,-4.0,1.0
+Miami Grand Prix,HUL,Kick Sauber,-3.0,3.0,0.0,1.0
+Miami Grand Prix,LAW,Racing Bulls,-1.0,-1.0,-2.0,1.0
+Miami Grand Prix,LEC,Ferrari,-4.0,3.0,-1.0,1.0
+Miami Grand Prix,NOR,McLaren,-4.0,0.0,-4.0,1.0
+Miami Grand Prix,OCO,Haas F1 Team,-3.0,5.0,2.0,1.0
+Miami Grand Prix,PIA,McLaren,-2.0,0.0,-2.0,1.0
+Miami Grand Prix,RUS,Mercedes,-1.0,0.0,-1.0,1.0
+Miami Grand Prix,SAI,Williams,-2.0,4.0,2.0,1.0
+Miami Grand Prix,STR,Aston Martin,-3.0,4.0,1.0,1.0
+Miami Grand Prix,TSU,Red Bull Racing,-4.0,5.0,1.0,1.0
+Miami Grand Prix,VER,Red Bull Racing,1.0,2.0,3.0,1.0
+Monaco Grand Prix,ALB,Williams,-3.0,2.0,-1.0,2.0
+Monaco Grand Prix,ALO,Aston Martin,-2.0,2.0,0.0,1.0
+Monaco Grand Prix,ANT,Mercedes,-2.0,6.0,4.0,2.0
+Monaco Grand Prix,BEA,Haas F1 Team,-10.0,3.0,-7.0,2.0
+Monaco Grand Prix,BOR,Kick Sauber,-10.0,4.0,-6.0,3.0
+Monaco Grand Prix,COL,Alpine,-9.0,7.0,-2.0,2.0
+Monaco Grand Prix,GAS,Alpine,0.0,1.0,1.0,1.0
+Monaco Grand Prix,HAD,Racing Bulls,-4.0,5.0,1.0,2.0
+Monaco Grand Prix,HAM,Ferrari,-2.0,0.0,-2.0,2.0
+Monaco Grand Prix,HUL,Kick Sauber,-6.0,10.0,4.0,2.0
+Monaco Grand Prix,LAW,Racing Bulls,-3.0,2.0,-1.0,2.0
+Monaco Grand Prix,LEC,Ferrari,-3.0,3.0,0.0,2.0
+Monaco Grand Prix,NOR,McLaren,-3.0,3.0,0.0,2.0
+Monaco Grand Prix,OCO,Haas F1 Team,-5.0,4.0,-1.0,2.0
+Monaco Grand Prix,PIA,McLaren,-3.0,3.0,0.0,2.0
+Monaco Grand Prix,RUS,Mercedes,-3.0,1.0,-2.0,2.0
+Monaco Grand Prix,SAI,Williams,-1.0,0.0,-1.0,2.0
+Monaco Grand Prix,STR,Aston Martin,-9.0,8.0,-1.0,2.0
+Monaco Grand Prix,TSU,Red Bull Racing,-5.0,5.0,0.0,2.0
+Monaco Grand Prix,VER,Red Bull Racing,-6.0,6.0,0.0,2.0
+Qatar Grand Prix,ALB,Williams,-4.0,-2.0,-6.0,2.0
+Qatar Grand Prix,ALO,Aston Martin,-1.0,2.0,1.0,2.0
+Qatar Grand Prix,ANT,Mercedes,-2.0,3.0,1.0,2.0
+Qatar Grand Prix,BEA,Haas F1 Team,-1.0,8.0,7.0,3.0
+Qatar Grand Prix,BOR,Kick Sauber,-3.0,-2.0,-5.0,2.0
+Qatar Grand Prix,COL,Alpine,-5.0,-1.0,-6.0,2.0
+Qatar Grand Prix,GAS,Alpine,-4.0,11.0,7.0,2.0
+Qatar Grand Prix,HAD,Racing Bulls,-3.0,13.0,10.0,2.0
+Qatar Grand Prix,HAM,Ferrari,-4.0,2.0,-2.0,2.0
+Qatar Grand Prix,HUL,Kick Sauber,-1.0,,-1.0,0.0
+Qatar Grand Prix,LAW,Racing Bulls,-4.0,0.0,-4.0,2.0
+Qatar Grand Prix,LEC,Ferrari,-2.0,0.0,-2.0,2.0
+Qatar Grand Prix,NOR,McLaren,-7.0,8.0,1.0,2.0
+Qatar Grand Prix,OCO,Haas F1 Team,-20.0,20.0,0.0,3.0
+Qatar Grand Prix,PIA,McLaren,-5.0,6.0,1.0,2.0
+Qatar Grand Prix,RUS,Mercedes,-4.0,3.0,-1.0,2.0
+Qatar Grand Prix,SAI,Williams,-4.0,2.0,-2.0,2.0
+Qatar Grand Prix,STR,Aston Martin,-11.0,9.0,-2.0,3.0
+Qatar Grand Prix,TSU,Red Bull Racing,-4.0,-2.0,-6.0,2.0
+Qatar Grand Prix,VER,Red Bull Racing,-4.0,3.0,-1.0,2.0
+Saudi Arabian Grand Prix,ALB,Williams,-7.0,7.0,0.0,1.0
+Saudi Arabian Grand Prix,ALO,Aston Martin,-3.0,5.0,2.0,1.0
+Saudi Arabian Grand Prix,ANT,Mercedes,-5.0,6.0,1.0,1.0
+Saudi Arabian Grand Prix,BEA,Haas F1 Team,-5.0,5.0,0.0,1.0
+Saudi Arabian Grand Prix,BOR,Kick Sauber,0.0,0.0,0.0,1.0
+Saudi Arabian Grand Prix,DOO,Alpine,0.0,1.0,1.0,2.0
+Saudi Arabian Grand Prix,GAS,Alpine,0.0,,0.0,0.0
+Saudi Arabian Grand Prix,HAD,Racing Bulls,-4.0,3.0,-1.0,1.0
+Saudi Arabian Grand Prix,HAM,Ferrari,-3.0,4.0,1.0,1.0
+Saudi Arabian Grand Prix,HUL,Kick Sauber,-5.0,5.0,0.0,1.0
+Saudi Arabian Grand Prix,LAW,Racing Bulls,-6.0,5.0,-1.0,1.0
+Saudi Arabian Grand Prix,LEC,Ferrari,-5.0,4.0,-1.0,1.0
+Saudi Arabian Grand Prix,NOR,McLaren,-8.0,4.0,-4.0,1.0
+Saudi Arabian Grand Prix,OCO,Haas F1 Team,-3.0,0.0,-3.0,1.0
+Saudi Arabian Grand Prix,PIA,McLaren,-5.0,4.0,-1.0,1.0
+Saudi Arabian Grand Prix,RUS,Mercedes,-1.0,3.0,2.0,1.0
+Saudi Arabian Grand Prix,SAI,Williams,-6.0,7.0,1.0,1.0
+Saudi Arabian Grand Prix,STR,Aston Martin,-3.0,5.0,2.0,1.0
+Saudi Arabian Grand Prix,TSU,Red Bull Racing,,0.0,0.0,0.0
+Saudi Arabian Grand Prix,VER,Red Bull Racing,-3.0,4.0,1.0,1.0
+Singapore Grand Prix,ALB,Williams,-15.0,9.0,-6.0,1.0
+Singapore Grand Prix,ALO,Aston Martin,-11.0,10.0,-1.0,1.0
+Singapore Grand Prix,ANT,Mercedes,-4.0,3.0,-1.0,1.0
+Singapore Grand Prix,BEA,Haas F1 Team,-8.0,7.0,-1.0,1.0
+Singapore Grand Prix,BOR,Kick Sauber,-3.0,5.0,2.0,1.0
+Singapore Grand Prix,COL,Alpine,-2.0,5.0,3.0,1.0
+Singapore Grand Prix,GAS,Alpine,-8.0,8.0,0.0,2.0
+Singapore Grand Prix,HAD,Racing Bulls,-5.0,8.0,3.0,1.0
+Singapore Grand Prix,HAM,Ferrari,-3.0,3.0,0.0,2.0
+Singapore Grand Prix,HUL,Kick Sauber,-5.0,14.0,9.0,2.0
+Singapore Grand Prix,LAW,Racing Bulls,-7.0,10.0,3.0,1.0
+Singapore Grand Prix,LEC,Ferrari,-4.0,5.0,1.0,1.0
+Singapore Grand Prix,NOR,McLaren,-2.0,2.0,0.0,1.0
+Singapore Grand Prix,OCO,Haas F1 Team,-9.0,10.0,1.0,1.0
+Singapore Grand Prix,PIA,McLaren,-3.0,3.0,0.0,1.0
+Singapore Grand Prix,RUS,Mercedes,-2.0,2.0,0.0,1.0
+Singapore Grand Prix,SAI,Williams,-13.0,5.0,-8.0,1.0
+Singapore Grand Prix,STR,Aston Martin,-12.0,11.0,-1.0,1.0
+Singapore Grand Prix,TSU,Red Bull Racing,-6.0,2.0,-4.0,1.0
+Singapore Grand Prix,VER,Red Bull Racing,-5.0,5.0,0.0,1.0
+Spanish Grand Prix,ALB,Williams,-5.0,10.0,5.0,2.0
+Spanish Grand Prix,ALO,Aston Martin,-15.0,15.0,0.0,3.0
+Spanish Grand Prix,ANT,Mercedes,-4.0,4.0,0.0,2.0
+Spanish Grand Prix,BEA,Haas F1 Team,-13.0,11.0,-2.0,3.0
+Spanish Grand Prix,BOR,Kick Sauber,-16.0,16.0,0.0,2.0
+Spanish Grand Prix,COL,Alpine,-7.0,5.0,-2.0,3.0
+Spanish Grand Prix,GAS,Alpine,-12.0,13.0,1.0,3.0
+Spanish Grand Prix,HAD,Racing Bulls,-5.0,4.0,-1.0,3.0
+Spanish Grand Prix,HAM,Ferrari,-5.0,8.0,3.0,3.0
+Spanish Grand Prix,HUL,Kick Sauber,-10.0,5.0,-5.0,3.0
+Spanish Grand Prix,LAW,Racing Bulls,-13.0,11.0,-2.0,2.0
+Spanish Grand Prix,LEC,Ferrari,-8.0,6.0,-2.0,3.0
+Spanish Grand Prix,NOR,McLaren,-2.0,1.0,-1.0,3.0
+Spanish Grand Prix,OCO,Haas F1 Team,-11.0,12.0,1.0,2.0
+Spanish Grand Prix,PIA,McLaren,-1.0,1.0,0.0,3.0
+Spanish Grand Prix,RUS,Mercedes,-6.0,4.0,-2.0,3.0
+Spanish Grand Prix,SAI,Williams,-14.0,12.0,-2.0,3.0
+Spanish Grand Prix,TSU,Red Bull Racing,-19.0,14.0,-5.0,4.0
+Spanish Grand Prix,VER,Red Bull Racing,-6.0,9.0,3.0,4.0
+São Paulo Grand Prix,ALB,Williams,-15.0,15.0,0.0,2.0
+São Paulo Grand Prix,ALO,Aston Martin,-10.0,14.0,4.0,2.0
+São Paulo Grand Prix,ANT,Mercedes,-12.0,12.0,0.0,2.0
+São Paulo Grand Prix,BEA,Haas F1 Team,-19.0,16.0,-3.0,2.0
+São Paulo Grand Prix,BOR,Kick Sauber,0.0,,0.0,0.0
+São Paulo Grand Prix,COL,Alpine,-12.0,11.0,-1.0,2.0
+São Paulo Grand Prix,GAS,Alpine,-16.0,18.0,2.0,2.0
+São Paulo Grand Prix,HAD,Racing Bulls,-17.0,20.0,3.0,2.0
+São Paulo Grand Prix,HAM,Ferrari,-7.0,8.0,1.0,3.0
+São Paulo Grand Prix,HUL,Kick Sauber,-13.0,10.0,-3.0,1.0
+São Paulo Grand Prix,LAW,Racing Bulls,-10.0,11.0,1.0,1.0
+São Paulo Grand Prix,LEC,Ferrari,0.0,,0.0,0.0
+São Paulo Grand Prix,NOR,McLaren,-5.0,5.0,0.0,2.0
+São Paulo Grand Prix,OCO,Haas F1 Team,-17.0,10.0,-7.0,2.0
+São Paulo Grand Prix,PIA,McLaren,-9.0,10.0,1.0,2.0
+São Paulo Grand Prix,RUS,Mercedes,-11.0,8.0,-3.0,2.0
+São Paulo Grand Prix,SAI,Williams,-15.0,15.0,0.0,2.0
+São Paulo Grand Prix,STR,Aston Martin,-11.0,12.0,1.0,2.0
+São Paulo Grand Prix,TSU,Red Bull Racing,-12.0,15.0,3.0,3.0
+São Paulo Grand Prix,VER,Red Bull Racing,-30.0,15.0,-15.0,3.0
+United States Grand Prix,ALB,Williams,-14.0,8.0,-6.0,2.0
+United States Grand Prix,ALO,Aston Martin,-6.0,4.0,-2.0,1.0
+United States Grand Prix,ANT,Mercedes,0.0,6.0,6.0,1.0
+United States Grand Prix,BEA,Haas F1 Team,0.0,1.0,1.0,1.0
+United States Grand Prix,BOR,Kick Sauber,-8.0,10.0,2.0,2.0
+United States Grand Prix,COL,Alpine,-7.0,7.0,0.0,1.0
+United States Grand Prix,GAS,Alpine,-1.0,6.0,5.0,1.0
+United States Grand Prix,HAD,Racing Bulls,-5.0,2.0,-3.0,1.0
+United States Grand Prix,HAM,Ferrari,-3.0,3.0,0.0,1.0
+United States Grand Prix,HUL,Kick Sauber,-7.0,4.0,-3.0,1.0
+United States Grand Prix,LAW,Racing Bulls,-6.0,4.0,-2.0,1.0
+United States Grand Prix,LEC,Ferrari,-5.0,6.0,1.0,1.0
+United States Grand Prix,NOR,McLaren,-3.0,2.0,-1.0,1.0
+United States Grand Prix,OCO,Haas F1 Team,-3.0,3.0,0.0,1.0
+United States Grand Prix,PIA,McLaren,-3.0,3.0,0.0,1.0
+United States Grand Prix,RUS,Mercedes,-3.0,3.0,0.0,1.0
+United States Grand Prix,SAI,Williams,-1.0,,-1.0,0.0
+United States Grand Prix,STR,Aston Martin,-10.0,4.0,-6.0,1.0
+United States Grand Prix,TSU,Red Bull Racing,-8.0,5.0,-3.0,1.0
+United States Grand Prix,VER,Red Bull Racing,0.0,0.0,0.0,1.0

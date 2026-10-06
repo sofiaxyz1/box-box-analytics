@@ -24,7 +24,7 @@ Análises:
   ├── README.md
   └── requirements.txt
   ```
-- [ ] README inicial: título, objetivo, as duas perguntas de análise
+- [x] README inicial: título, objetivo, as duas perguntas de análise
 
 ## Etapa 1 — Exploração da API FastF1
 Notebook: `notebooks/01_exploracao_fastf1.ipynb`
@@ -52,20 +52,20 @@ Notebook: `03_setores_vs_grid.ipynb` | Funções em `src/analysis.py`
 
 ## Etapa 4 — Análise 2: Estratégia e ultrapassagens
 Notebook: `04_estrategia_corrida.ipynb`
-- [ ] Carregar sessões de corrida ('R') de 2025
-- [ ] Stints: agrupar `laps` por `Driver` + `Stint`, com `Compound` e nº de voltas
-- [ ] Gráfico de estratégia (barras horizontais estilo Gantt: piloto × voltas, cor = composto)
-- [ ] Degradação: evolução do tempo de volta dentro do stint por composto
-- [ ] Ultrapassagens: variação de `Position` volta a volta, filtrando trocas causadas por pit stop (senão você conta "ultrapassagens fantasmas")
-- [ ] Perguntas: 1 vs. 2 paradas — o que rendeu mais posições? Undercut funcionou? Em quais pistas se ultrapassa mais?
+- [x] Carregar sessões de corrida ('R') de 2025
+- [x] Stints: agrupar `laps` por `Driver` + `Stint`, com `Compound` e nº de voltas
+- [x] Gráfico de estratégia (barras horizontais estilo Gantt: piloto × voltas, cor = composto)
+- [x] Degradação: evolução do tempo de volta dentro do stint por composto
+- [x] Ultrapassagens: variação de `Position` volta a volta, filtrando trocas causadas por pit stop (senão você conta "ultrapassagens fantasmas")
+- [x] Perguntas: 1 vs. 2 paradas — o que rendeu mais posições? Undercut funcionou? Em quais pistas se ultrapassa mais?
 
 ## Etapa 5 — Refatoração e qualidade
-- [ ] Mover funções repetidas dos notebooks para `src/` com docstrings
-- [ ] Nomes claros, remover código morto, notebooks rodando do zero (Restart & Run All)
-- [ ] `requirements.txt` final com versões
+- [x] Mover funções repetidas dos notebooks para `src/` com docstrings
+- [x] Nomes claros, remover código morto, notebooks rodando do zero (Restart & Run All)
+- [x] `requirements.txt` final com versões
 
 ## Etapa 6 — README e apresentação
-- [ ] README com: contexto, perguntas, principais achados COM gráficos (exportar para `reports/figures/`), como rodar, estrutura do repo, limitações e próximos passos
+- [x] README com: contexto, perguntas, principais achados COM gráficos (exportar para `reports/figures/`), como rodar, estrutura do repo, limitações e próximos passos
 - [ ] Descrição e topics no GitHub (`python`, `data-analysis`, `formula1`, `fastf1`)
 
 ## Etapa 7 — Verificação final
